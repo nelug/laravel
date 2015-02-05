@@ -1,0 +1,23 @@
+{
+  "name": "click",
+  "version": "0.1.0",
+  "authors": [
+    "click <ulmer.click@gmail.com>"
+  ],
+  "homepage": "http://github.com/click",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/assets/components/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~2.0.3",
+    "datatables": "~1.10.2",
+    "jquery-ui": "~1.11.2",
+    "toastr": "~2.1.0"
+  }
+}

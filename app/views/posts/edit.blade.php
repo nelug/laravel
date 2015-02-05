@@ -1,0 +1,1 @@
+/var/www/labendicion/app/views/posts/edit.blade.php

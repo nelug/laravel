@@ -1,0 +1,26 @@
+#barcode {
+    display: none;
+}
+
+.dt-container {
+	margin-top: 100px;
+}
+
+.modal-dialog {
+transform: translate(1%, 100px) !important;
+-ms-transform: translate(0, 50%) !important; /* IE 9 */
+-webkit-transform: translate(0, 50%) !important; /* Safari and Chrome */
+}
+
+.modal-backdrop.in {
+  opacity: 0.1;
+  filter: alpha(opacity=10);
+}
+
+.bc-body {
+	margin-top:15%;
+}
+
+.ws {
+	width: 185px;
+}
